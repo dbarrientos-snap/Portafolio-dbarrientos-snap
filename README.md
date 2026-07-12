@@ -1,4 +1,4 @@
-# Orisono728 — Portfolio
+# dbarrientos-snap — Portfolio
 
 > _"Aprender es cuestión de romper, arreglar, pensar y mejorar."_
 
@@ -32,6 +32,6 @@ Registro público de proyectos y progreso técnico.
 
 ## Autor
 
-**Orisono728** · [`Orisono728`](https://github.com/Orisono728)
+**dbarrientos-snap** · [`Orisono728`](https://github.com/Orisono728)
 Estudiante de Ingeniería de Sistemas y Computación · Universidad del Quindío
 Armenia, Quindío, Colombia 🇨🇴
